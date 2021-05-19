@@ -1,5 +1,6 @@
-<h1 align= "center">Hi there 👋</h1>
+<h1 align= "center">Hi, I'm Karol 👋</h1>
 
+<p>I am a Informatics student from Poland</p> 
 <!--
 **karolstawowski/karolstawowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
