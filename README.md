@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![karolstawowski's GitHub stats](https://github-readme-stats.vercel.app/api?username=karolstawowski&show_icons=true&theme=vision-friendly-dark&hide=stars,prs) 
-[![Top Langs]<g style="text-align: right">(https://github-readme-stats.vercel.app/api/top-langs/?username=karolstawowski&hide=html&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</g>
+<g style="text-align: right">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolstawowski&hide=html&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</g>
