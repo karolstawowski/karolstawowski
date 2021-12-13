@@ -4,7 +4,6 @@
 
 
 * I'm a Computer Science student at University of Economics in Katowice, Poland :poland:<br> 
-* Favourite language at the moment: <b>C#</b>
 
 <div>
   
