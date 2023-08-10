@@ -1,9 +1,11 @@
 # Hi, my name is Karol 👋
 
-#### I am a Computer Science student at University of Economics in Katowice, Poland :poland:<br> 
+- Full Stack Developer
+- Computer Science student at University of Economics in Katowice, Poland :poland:
 
-## My technology stack:
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolstawowski&theme=github_dark">
+### My technology stack
+
+<img align="right" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolstawowski&theme=github_dark&langs_count=6&card_width=320&size_weight=0.5&count_weight=0.5">
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![ReactTestingLibrary](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
 
@@ -17,6 +19,4 @@
   
   ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karolstawowski&show_icons=true&theme=github_dark">
-</div>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=karolstawowski&show_icons=true&theme=github_dark&rank_icon=github">
