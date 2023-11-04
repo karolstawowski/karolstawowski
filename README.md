@@ -1,6 +1,6 @@
 # Hi, my name is Karol 👋
 
-- Full Stack Developer
+- Frontend Developer
 - Computer Science student at University of Economics in Katowice, Poland :poland:
 
 ### My technology stack
