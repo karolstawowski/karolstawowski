@@ -21,6 +21,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
 ![styled-components](https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff&style=flat-square)
+![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?logo=gatsby&logoColor=white&style=flat-square)
 
 #### Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) 
@@ -28,6 +29,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square)
 ![tRPC](https://img.shields.io/badge/tRPC-2596BE?logo=trpc&logoColor=fff&style=flat-square)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white&style=flat-square)
 
 #### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00718B?style=flat-square&logo=mysql&logoColor=white) 
