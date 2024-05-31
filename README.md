@@ -59,5 +59,5 @@
 </a>
 
 <a href="https://github.com/karolstawowski">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolstawowski&theme=github_dark&langs_count=3&card_width=320&size_weight=0.5&count_weight=0.5">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolstawowski&theme=github_dark&langs_count=3&card_width=320&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook">
 </a>
