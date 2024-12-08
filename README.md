@@ -14,13 +14,15 @@
 ![Remix](https://img.shields.io/badge/Remix-000?logo=remix&logoColor=fff&style=flat-square)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
 ![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=flat-square)
+![styled-components](https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff&style=flat-square)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?logo=Playwright&logoColor=fff&style=flat-square)
 ![ReactTestingLibrary](https://img.shields.io/badge/React%20Testing%20Library-323330?style=flat-square&logo=testing-library&logoColor=red) 
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat-square)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff&style=flat-square)
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat-square)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
-![styled-components](https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff&style=flat-square)
+![NextJS](https://img.shields.io/badge/Next%20JS-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?logo=gatsby&logoColor=white&style=flat-square)
 
 #### Backend
